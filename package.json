@@ -50,6 +50,7 @@
     "tween-functions": "^1.0.1"
   },
   "devDependencies": {
+    "@react-native-community/picker": "^1.6.5",
     "babel-cli": "^6.18.0",
     "babel-eslint": "^7.2.3",
     "babel-jest": "^24.8.0",
