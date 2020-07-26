@@ -4,5 +4,5 @@ change version of this library because of an error in dependencies of package.js
 add this to dependencies of package.json
 "@react-native-community/picker": "^1.6.5",
 
-change library to this for depricating in src/basic/Picker.js
+change library to this for depricating in src/basic/Picker.js , PickerItem.js , Picker.android.js & Picker.ios.js
 import { Picker } from '@react-native-community/picker';
