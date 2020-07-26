@@ -30,7 +30,6 @@
   "license": "Apache-2.0",
   "private": false,
   "dependencies": {
-    "@react-native-community/picker": "^1.6.5",
     "@codler/react-native-keyboard-aware-scroll-view": "1.0.0",
     "blueimp-md5": "^2.5.0",
     "clamp": "^1.0.1",
@@ -51,6 +50,7 @@
     "tween-functions": "^1.0.1"
   },
   "devDependencies": {
+    "@react-native-community/picker": "^1.6.5",
     "babel-cli": "^6.18.0",
     "babel-eslint": "^7.2.3",
     "babel-jest": "^24.8.0",
